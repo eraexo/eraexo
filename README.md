@@ -13,7 +13,7 @@ Dev & Data | Building Innovation with Code, AI & Human Logic
 🔥 Curious Mind | 🌱 Lifelong Learner | 🌌 Explorer of Ideas & Worlds
 
 * 🌍  I'm based in Milano
-* 🖥️  See my portfolio at [Portfolio]([https://digital-portfolio-lovat-sigma.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](https://digital-portfolio-lovat-sigma.vercel.app/)
 * ✉️  You can contact me at [eraemuha@eramuha.com](mailto:eraemuha@eramuha.com)
 * 🚀  I'm currently working on [E-Muha](http://e-muha.com)
 * 🧠  I'm currently learning Lifelong
