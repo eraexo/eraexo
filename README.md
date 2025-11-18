@@ -1,4 +1,4 @@
-Era (Era|Exo) Muha
+Era Muha
 =================================================================================================================================
 
 Dev & Data | Building Innovation with Code, AI & Human Logic
