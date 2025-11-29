@@ -4,14 +4,6 @@ Era Muha
 Dev & Data | Building Innovation with Code, AI & Human Logic
 ------------------------------------------------------------
 
-🚀 Dev | 🎨 UX/UI | 📊 Data Science & BI | 🤖 AI & Robotics | ☁️ Cloud
-
-🌍 Passionate about Tech, Science, Business, Finance, Music, Movies, Gaming & Travel
-
-✨ Blending Technology and Creativity to Build Innovative Solutions
-
-🔥 Curious Mind | 🌱 Lifelong Learner | 🌌 Explorer of Ideas & Worlds
-
 * 🌍  I'm based in Milano
 * 🖥️  See my portfolio at [Portfolio](https://digital-portfolio-lovat-sigma.vercel.app/)
 * ✉️  You can contact me at [eraemuha@eramuha.com](mailto:eraemuha@eramuha.com)
